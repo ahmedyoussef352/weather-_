@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 31.2497,
+        "lat": 30.0626
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "غائم جزئي",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 306.57,
+        "feels_like": 309.13,
+        "temp_min": 306.57,
+        "temp_max": 306.57,
+        "pressure": 1006,
+        "humidity": 46
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.6,
+        "deg": 300
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1659434906,
+    "sys": {
+        "type": 1,
+        "id": 2514,
+        "country": "EG",
+        "sunrise": 1659410057,
+        "sunset": 1659458890
+    },
+    "timezone": 7200,
+    "id": 360630,
+    "name": "القاهرة",
+    "cod": 200
+}

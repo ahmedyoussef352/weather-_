@@ -1,0 +1,3 @@
+9f1a1416373afe3c54077a664fce9571 apikey
+http://api.openweathermap.org/data/2.5/weather?q=cairo&lang=ar&mode=json&appid=9f1a1416373afe3c54077a664fce9571 api data
+http://api.openweathermap.org/data/2.5/forecast?q=cairo&appid=9f1a1416373afe3c54077a664fce9571 5 days
